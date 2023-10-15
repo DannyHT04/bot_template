@@ -1,7 +1,7 @@
 # Simple template for a discord bot to create slash commands and event handlers
-##required node package to run bot on computer: nodemon
+## required node package to run bot on computer: nodemon
 
-###How to run
+### How to run
 
 1. create a bot using discord developer portal and copy the bot token
 2. Invite the bot to your server
